@@ -1,5 +1,4 @@
-
-from agent_selector_exercise2 import main_func
+from agent_selector import main_func
 
 
 agent_list = [[True, 4, ['marketing', 'sales']], [False, 1, 'sales'],

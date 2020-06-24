@@ -1,4 +1,4 @@
-from agent_selector_advanced_case import main_func
+from agent_selector import main_func
 
 agent_list = [[True, 4, ['marketing', 'spanish']],
               [False, 1, ['sales', 'hindi']],
