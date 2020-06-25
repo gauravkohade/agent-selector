@@ -20,7 +20,7 @@ specialisation = int(input("""\nplease select the issue related department-
 2)support
 3)sales \n"""))
 
-language = int(input("""\nplease select the issue related department-
+language = int(input("""\nplease select the language-
 1)spanish
 2)hindi
 3)english
